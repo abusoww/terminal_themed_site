@@ -50,12 +50,12 @@ const Banner = () => {
       <h1 className="mb-2 font-bold font-poppins select-none">
         <span className={tailwindClassName}>
           {`
-██████╗ ██████╗  ██████╗ ██╗  ██╗███████╗ ██╗███╗   ███╗ █████╗
-██╔══██╗██╔══██╗██╔═████╗╚██╗██╔╝╚══███╔╝███║████╗ ████║██╔══██╗
-██████╔╝██████╔╝██║██╔██║ ╚███╔╝   ███╔╝ ╚██║██╔████╔██║███████║
-██╔═══╝ ██╔══██╗████╔╝██║ ██╔██╗  ███╔╝   ██║██║╚██╔╝██║██╔══██║
-██║     ██║  ██║╚██████╔╝██╔╝ ██╗███████╗ ██║██║ ╚═╝ ██║██║  ██║
-╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ v${packageJson.version}`}
+ █████╗ ██████╗ ██╗   ██╗███████╗ ██████╗ ██╗   ██╗
+██╔══██╗██╔══██╗██║   ██║██╔════╝██╔═══██╗██║   ██║
+███████║██████╔╝██║   ██║███████╗██║   ██║██║   ██║
+██╔══██║██╔══██╗██║   ██║╚════██║██║   ██║╚██╗ ██╔╝
+██║  ██║██████╔╝╚██████╔╝███████║╚██████╔╝ ╚████╔╝ 
+╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝   ╚═══╝   v${packageJson.version}`}
         </span>
         <br />
         <span className={tailwindClassWeb}>Web</span>
@@ -63,7 +63,7 @@ const Banner = () => {
         <span className={tailwindClassDeveloper}>Developer</span>
       </h1>
       <p className="my-5 md:my-10 text-neutral w-[60ch]">
-        {`Yoo, I'm Pratik Pingale. I seek problems to solve them. Love to learn whatever that will make the future. Very versatile and adapt quickly to a changing environment. Passionate, highly skilled in Front-End Web Development alongside modern frameworks like React/Django and other libraries. Open Source contributor.`}
+        {`A wanderer by choice, learning by accident. Embracing change like it’s a new hobby and chasing challenges because why not? This website is open source—type "repo" to see the code behind the page.`}
       </p>
       <p>
         {`Type 'help' to see the list of available commands.\nType 'about' to see my GitHub Readme.\nType 'sumfetch' to display summary.\nType 'repo' or click `}
