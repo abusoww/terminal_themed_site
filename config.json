@@ -1,22 +1,22 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/README.md",
-  "title": "Pratik Pingale | Home",
-  "name": "Pratik Pingale",
+  "readmeUrl": "https://raw.githubusercontent.com/abusoww/abusoww/master/readme.md",
+  "title": "Nicat Abushov | Home",
+  "name": "Nicat Abushov",
   "description": "Yoo! Welcome to my Terminal based home page!",
-  "ascii": "proxzima",
+  "ascii": "abusov",
   "social": {
-    "github": "PROxZIMA",
-    "linkedin": "pratik-pingale"
+    "github": "abusoww",
+    "linkedin": "nicatabushov"
   },
-  "email": "contact@proxzima.dev",
-  "ps1_hostname": "proxzima.dev",
-  "ps1_username": "okyakusan",
-  "ps1_username_kanji": "お客さん",
-  "repo": "https://github.com/PROxZIMA/proxzima.github.io",
-  "homepage": "https://proxzima.dev",
-  "resume_url": "https://proxzima.dev/resume/",
+  "email": "nicat@abusov.com",
+  "ps1_hostname": "terminal.abusov.com",
+  "ps1_username": "abusoww",
+  "ps1_username_kanji": "nicat",
+  "repo": "https://github.com/abusoww/terminal_themed_site",
+  "homepage": "https://terminal.abusov.com",
+  "resume_url": "https://abusov.com/resume",
   "donate_urls": {
-    "Buy Me a Coffee": "https://www.buymeacoffee.com/proxzima"
+    "Buy Me a Coffee": "https://www.kofe.al/abusoww"
   },
   "colors": {
     "light": {
