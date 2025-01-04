@@ -58,9 +58,9 @@ const Banner = () => {
 ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝   ╚═══╝   v${packageJson.version}`}
         </span>
         <br />
-        <span className={tailwindClassWeb}>Web</span>
+        <span className={tailwindClassWeb}>Wanderer of</span>
         <br />
-        <span className={tailwindClassDeveloper}>Developer</span>
+        <span className={tailwindClassDeveloper}>Rabit Holes</span>
       </h1>
       <p className="my-5 md:my-10 text-neutral w-[60ch]">
         {`A wanderer by choice, learning by accident. Embracing change like it’s a new hobby and chasing challenges because why not? This website is open source—type "repo" to see the code behind the page.`}
