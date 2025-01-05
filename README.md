@@ -6,8 +6,8 @@ Building a simple website with LiveTerm only takes **minutes**, and you only nee
 
 LiveTerm can be used to build a variety of websites:
 
-- [Personal website](https://proxzima.dev)
-- [Project page](https://github.com/PROxZIMA/proxzima.github.io)
+- [Personal website](https://terminal.abusov.com)
+- [Project page](https://github.com/abusoww/terminal_themed_site)
 - or maybe just a cool browser music player...be creative!
 
 ## 📸 Showcase
